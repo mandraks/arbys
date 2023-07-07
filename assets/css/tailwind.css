@@ -1,0 +1,84 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @font-face {
+    font-family: 'league-gothic';
+    src: url('~/assets/fonts/League-Gothic/leaguegothic-condensedregular-webfont.woff2') format('woff2'), url('~/assets/fonts/League-Gothic/leaguegothic-condensedregular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+} */
+
+@font-face {
+    font-family: 'League Gothic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('League Gothic'), url('~/assets/fonts/League-Gothic/League_Gothic.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'League Gothic-Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('League Gothic-Regular'), url('~/assets/fonts/League-Gothic/LeagueGothic-Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'League Gothic-Condensed Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('League Gothic-Condensed Regular'), url('~/assets/fonts/League-Gothic/LeagueGothic-CondensedRegular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'League Gothic-Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('League Gothic-Italic'), url('~/assets/fonts/League-Gothic/LeagueGothic-Italic.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'League Gothic-Condensed Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('League Gothic-Condensed Italic'), url('~/assets/fonts/League-Gothic/LeagueGothic-CondensedItalic.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'RockwellBold';
+    src: url('~/assets/fonts/Rockwell-Bold.woff2') format('woff2'), url('~/assets/fonts/Rockwell-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rockwell';
+    src: url('~/assets/fonts/Rockwell.woff2') format('woff2'), url('~/assets/fonts/Rockwell.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+:root {
+    --dark: #2a221c;
+    --primary: #d71920;
+}
+
+@layer utilities {
+    .flex-basis-100 {
+        flex-basis: 100%;
+    }
+
+    .flex-basis-338 {
+        flex-basis: 338px;
+    }
+
+    .card-shadow {
+        box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.15);
+    }
+
+    .border-b-primary {
+        border-bottom-color: var(--primary);
+    }
+}
