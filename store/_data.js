@@ -567,7 +567,8 @@ const menu = [{
                 description: "",
                 calories_description: "",
                 type: false,
-                image: require("~/assets/images/NESCAFE-ARBYS- CAFÉ_1 copy 2.png"),
+                //image: require("~/assets/images/NESCAFE-ARBYS- CAFÉ_1 copy 2.png"),
+                image: require("~/assets/images/NESCAFE-ARBYS-LOGOpng 1.png"),
             },
             {
                 name: "Café Cortadito",
