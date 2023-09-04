@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <img src="~/assets/images/image 48.png" alt="" />
+    <img src="~/assets/images/image48.png" alt="" />
 
     <div class="flex justify-center w-full">
       <div class="container py-12 px-16">
@@ -93,4 +93,3 @@ export default {
   },
 };
 </script>
-
