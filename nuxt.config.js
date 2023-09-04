@@ -24,7 +24,6 @@ export default {
         {
           hid: "order-delivery-button",
           innerHTML: `
-                  try {
                       (function(e, t, r, n) {
                       var o, c, s;
                       o = e.document, c = t.children[0], s = o.createElement("script"), e.StorefrontSDKObject = "StorefrontSDK", e[e.StorefrontSDKObject] = {
@@ -46,9 +45,7 @@ export default {
                           borderColor: 'transparent',
                           buttonText: 'Order Pickup & Delivery',
                       });
-                  } catch (error) {
-                      console.error("An error occurred:", error);
-                  }
+                  
                   `,
         },
         {
