@@ -22,11 +22,13 @@
                     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1892.8591403752805!2d-66.1054971!3d18.4056685!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8c03690f596f43c1%3A0xf073bb3949b46cda!2sArby&#39;s!5e0!3m2!1sen!2s!4v1642102754643!5m2!1sen!2s"
                         class="border-0 w-full h-screen max-h-80" allowfullscreen="" loading="lazy"></iframe>
                 </div>
+                <!--
                 <div>
                   <h1 class="my-4 text-4xl font-rockwell-bold">Santa Isabel</h1>
                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3794.2161562958!2d-66.38287138511468!3d18.01516938770529!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8c1ccd579d49da85%3A0x336f5f220da10b98!2zQXJieeKAmXM!5e0!3m2!1sen!2s!4v1642102819107!5m2!1sen!2s"
                         class="border-0 w-full h-screen max-h-80" allowfullscreen="" loading="lazy"></iframe>
                 </div>
+                -->
                 <div>
                     <h1 class="my-4 text-4xl font-rockwell-bold">Plaza Las Américas</h1>
                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3785.3570475035153!2d-66.0748981!3d18.4220909!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8c036985c63c5b33%3A0xdd95283322e826cf!2sArby&#39;s%20%7C%20Plaza%20Las%20Am%C3%A9ricas!5e0!3m2!1sen!2s!4v1671738732753!5m2!1sen!2s" 
