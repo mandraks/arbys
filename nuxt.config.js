@@ -64,7 +64,7 @@ export default {
                     function gtag(){dataLayer.push(arguments);}
                     gtag('js', new Date());
             
-                    gtag('config', 'G-J7NF3XLX2Z');
+                    gtag('config', 'GTM-W9L6MGD');
                   `,
           type: "text/javascript",
           charset: "utf-8",
@@ -95,7 +95,7 @@ export default {
     build: {},
   
     googleAnalytics: {
-      id: "G-J7NF3XLX2Z",
+      id: "GTM-W9L6MGD",
     },
   };
   
