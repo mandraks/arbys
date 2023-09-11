@@ -40,6 +40,19 @@
             loading="lazy"
           ></iframe>
         </div>
+        <!-- Added new location to page Hatillo -->
+        <div>
+          <h1 class="my-4 text-4xl font-rockwell-bold">
+            Hatillo
+          </h1>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3783.893234427606!2d-66.7951321889154!3d18.4884946825263!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8c02e71a12df63fb%3A0x170fec26e0bfc12b!2sArby&#39;s!5e0!3m2!1sen!2sus!4v1694463906254!5m2!1sen!2sus" 
+          class="border-0 w-full h-screen max-h-80"
+          allowfullscreen="" 
+          loading="lazy" 
+          referrerpolicy="no-referrer-when-downgrade"></iframe>
+          </div>
+    
+
         <!-- Remove this comment to add a this location to the page Santa Isabel
                 <div>
                   <h1 class="my-4 text-4xl font-rockwell-bold">Santa Isabel</h1>
